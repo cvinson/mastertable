@@ -17,7 +17,7 @@ mastertable = require('mastertable')
 mastertable.degreesToPoints(3)
 // => 6
 
-mastertable.degreesToPoints(6)
+mastertable.pointsToDegrees(6)
 // => 3
 ```
 
